@@ -1,0 +1,4 @@
+com.example.plugin/DemoPlugin.java
+ com.example.plugin.DemoPlugin
+com.example.plugin/DemoTransform.java
+ com.example.plugin.DemoTransform
